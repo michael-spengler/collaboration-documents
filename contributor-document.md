@@ -10,7 +10,7 @@ I claim the right to use whatever license I want for my repositories (e.g. GNU A
 
 ## Freedom
 
-I claim the right to change my repositories in whatever way I like as time goes by. If a contributor wants to develop things into a different direction than I, the corresponding contributor can do this on a fork. 
+I claim the right to change my repositories in whatever way I like as time goes by. If a contributor wants to develop things into a different direction than I, the corresponding contributor can do this in his own repository. 
 
 ## Fairness
 
