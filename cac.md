@@ -3,9 +3,9 @@
 ## Prerequisites
 What you need in order to receive Contributor Assistant Coins
 
-1. Install a browser wallet 
-1.1 Option 1: Installiere https://metamask.io/ in google chrome
-1.2 Option 2: Installiere https://brave.com/ (which has an integrated crypto wallet functionality)
+1. Install a browser wallet  
+1.1 Option 1: Installiere https://metamask.io/ in google chrome  
+1.2 Option 2: Installiere https://brave.com/ (which has an integrated crypto wallet functionality)  
 
 2. Apply for initial funding of your Open Source Project by sending a message to the telegram chat https://t.me/joinchat/5kLsF25XyJUxYjUy
 
